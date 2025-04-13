@@ -44,7 +44,8 @@ oxygen-escape/ ├── project.godot ├── scenes/ ├── scripts/ ├�
 ---
 
 ## 📸 Screenshots
-![Screenshot 2025-04-13 214305](https://github.com/user-attachments/assets/55a86a9a-75f4-438f-8e76-fe75999ba37c)
+
+![Screenshot 2025-04-13 231721](https://github.com/user-attachments/assets/5982a152-a365-4734-8aa8-a5a6c14d875d)
 
 
 ---

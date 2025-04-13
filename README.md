@@ -20,8 +20,7 @@ The goal? Survive as long as you can while running from fire, collecting oxygen 
 
 - **Godot Engine** (2D mode)
 - **GDScript** for scripting mechanics
-- Free or original pixel art assets (add your source if needed)
-- Sound FX and background music for immersion
+
 
 ---
 
